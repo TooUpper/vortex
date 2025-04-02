@@ -1,7 +1,0 @@
-[package]
-name = "vortex"
-version = "0.1.0"
-authors = ["kay <kay@tooupper.com>"]
-edition = "2024"
-
-[dependencies]
